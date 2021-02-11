@@ -1,7 +1,6 @@
-# Supplementary material for "Leveraging Sparse Linear Layers for Debuggable Deep Networks"
+# Code for "Leveraging Sparse Linear Layers for Debuggable Deep Networks"
 
 Contents: 
-+ `supplementary.pdf` is the full paper with the appendix
 + `elasticnet.py` contains the core SAGA-based solver for fitting elastic net regularized generalized linear models at scale
 + `imagenet_features.py` precomputes deep feature representations for the ImageNet dataset 
 + `imagenet_example.py` fits the regularization path for ImageNet
